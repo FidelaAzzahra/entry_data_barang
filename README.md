@@ -1,4 +1,5 @@
-# entry_data_barang
+<h3>Entry Data Barang</h3>
+
 Mata kuliah Pemrograman Perangkat Bergerak
 
 - Minus : Button view masih belum berfungsi. Perintah belum dibuat 
